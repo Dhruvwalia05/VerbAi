@@ -64,12 +64,6 @@ VerbAi/
 |— LICENSE              # License information
 ```
 
-## Contributors
-- **Team Member 1**: Role (e.g., Backend Developer)
-- **Team Member 2**: Role (e.g., Frontend Developer)
-- **Team Member 3**: Role (e.g., AI Specialist)
-- **Team Member 4**: Role (e.g., Project Manager)
-
 ## License
 This project is licensed under the terms specified in the [LICENSE](./LICENSE) file.
 
